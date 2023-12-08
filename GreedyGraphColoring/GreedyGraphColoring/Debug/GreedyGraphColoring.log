@@ -1,0 +1,6 @@
+﻿  GreedyGraphColoring.cpp
+D:\@자료구조, 알고리즘\GreedyGraphColoring\GreedyGraphColoring\GreedyGraphColoring.cpp(36,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\@자료구조, 알고리즘\GreedyGraphColoring\GreedyGraphColoring\GreedyGraphColoring.cpp(41,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\@자료구조, 알고리즘\GreedyGraphColoring\GreedyGraphColoring\GreedyGraphColoring.cpp(62,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+D:\@자료구조, 알고리즘\GreedyGraphColoring\GreedyGraphColoring\GreedyGraphColoring.cpp(108,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  GreedyGraphColoring.vcxproj -> D:\@자료구조, 알고리즘\GreedyGraphColoring\Debug\GreedyGraphColoring.exe
