@@ -1,0 +1,5 @@
+﻿  KruskalAlgorithm.cpp
+D:\@하이딥\KruskalAlgorithm\KruskalAlgorithm_myCode\KruskalAlgorithm.cpp(87,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\@하이딥\KruskalAlgorithm\KruskalAlgorithm_myCode\KruskalAlgorithm.cpp(115,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+D:\@하이딥\KruskalAlgorithm\KruskalAlgorithm_myCode\KruskalAlgorithm.cpp(160,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  KruskalAlgorithm_myCode.vcxproj -> D:\@하이딥\KruskalAlgorithm\Debug\KruskalAlgorithm_myCode.exe

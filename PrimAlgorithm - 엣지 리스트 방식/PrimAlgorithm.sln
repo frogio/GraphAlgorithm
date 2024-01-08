@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PrimAlgorithm", "PrimAlgorithm\PrimAlgorithm.vcxproj", "{659D700F-C5C1-497E-A793-4EC4E789D15F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{659D700F-C5C1-497E-A793-4EC4E789D15F}.Debug|x64.ActiveCfg = Debug|x64
+		{659D700F-C5C1-497E-A793-4EC4E789D15F}.Debug|x64.Build.0 = Debug|x64
+		{659D700F-C5C1-497E-A793-4EC4E789D15F}.Debug|x86.ActiveCfg = Debug|Win32
+		{659D700F-C5C1-497E-A793-4EC4E789D15F}.Debug|x86.Build.0 = Debug|Win32
+		{659D700F-C5C1-497E-A793-4EC4E789D15F}.Release|x64.ActiveCfg = Release|x64
+		{659D700F-C5C1-497E-A793-4EC4E789D15F}.Release|x64.Build.0 = Release|x64
+		{659D700F-C5C1-497E-A793-4EC4E789D15F}.Release|x86.ActiveCfg = Release|Win32
+		{659D700F-C5C1-497E-A793-4EC4E789D15F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA81FC24-40CA-44F1-84AC-A899F30B4E03}
+	EndGlobalSection
+EndGlobal

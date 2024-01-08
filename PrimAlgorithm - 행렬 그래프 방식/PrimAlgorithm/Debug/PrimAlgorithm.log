@@ -1,0 +1,4 @@
+﻿  PrimAlgorithm.cpp
+D:\@자료구조, 알고리즘\그래프 알고리즘\PrimAlgorithm - 행렬 그래프 방식\PrimAlgorithm\PrimAlgorithm.cpp(9,1): warning C4005: 'INFINITY': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(90): message : 'INFINITY'의 이전 정의를 참조하십시오.
+  PrimAlgorithm.vcxproj -> D:\@자료구조, 알고리즘\그래프 알고리즘\PrimAlgorithm - 행렬 그래프 방식\Debug\PrimAlgorithm.exe

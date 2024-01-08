@@ -68,42 +68,43 @@ void main() {
 	// Node 1
 	graph.emplace_back(Edge{ 1, 2 });
 	graph.emplace_back(Edge{ 1, 5 });
-								  
+
 	// Node 2					  
 	graph.emplace_back(Edge{ 2, 1 });
 	graph.emplace_back(Edge{ 2, 5 });
 	graph.emplace_back(Edge{ 2, 4 });
-								  
+
 	// Node 3					  
 	graph.emplace_back(Edge{ 3, 4 });
 	graph.emplace_back(Edge{ 3, 7 });
-								  
+
 	// Node 4					  
 	graph.emplace_back(Edge{ 4, 2 });
 	graph.emplace_back(Edge{ 4, 3 });
 	graph.emplace_back(Edge{ 4, 5 });
 	graph.emplace_back(Edge{ 4, 6 });
 	graph.emplace_back(Edge{ 4, 8 });
-								  
+
 	// Node 5					  
 	graph.emplace_back(Edge{ 5, 1 });
 	graph.emplace_back(Edge{ 5, 2 });
 	graph.emplace_back(Edge{ 5, 4 });
 	graph.emplace_back(Edge{ 5, 8 });
-								  
+
 	// Node 6					  
 	graph.emplace_back(Edge{ 6, 4 });
 	graph.emplace_back(Edge{ 6, 7 });
 	graph.emplace_back(Edge{ 6, 8 });
-								  
+
 	// Node 7					  
 	graph.emplace_back(Edge{ 7, 3 });
 	graph.emplace_back(Edge{ 7, 6 });
-								  
+
 	// Node 8					  
 	graph.emplace_back(Edge{ 8, 4 });
 	graph.emplace_back(Edge{ 8, 5 });
 	graph.emplace_back(Edge{ 8, 6 });
+
 
 	vector<unsigned> colors = greedy_coloring(node_count, graph);
 
