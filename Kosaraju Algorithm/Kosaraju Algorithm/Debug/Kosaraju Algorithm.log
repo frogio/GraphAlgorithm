@@ -1,0 +1,7 @@
+﻿  Kosaraju Algorithm.cpp
+D:\@자료구조, 알고리즘\그래프 알고리즘\Kosaraju Algorithm\Kosaraju Algorithm\Kosaraju Algorithm.cpp(20,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+D:\@자료구조, 알고리즘\그래프 알고리즘\Kosaraju Algorithm\Kosaraju Algorithm\Kosaraju Algorithm.cpp(54,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\@자료구조, 알고리즘\그래프 알고리즘\Kosaraju Algorithm\Kosaraju Algorithm\Kosaraju Algorithm.cpp(56,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\@자료구조, 알고리즘\그래프 알고리즘\Kosaraju Algorithm\Kosaraju Algorithm\Kosaraju Algorithm.cpp(70,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\@자료구조, 알고리즘\그래프 알고리즘\Kosaraju Algorithm\Kosaraju Algorithm\Kosaraju Algorithm.cpp(88,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Kosaraju Algorithm.vcxproj -> D:\@자료구조, 알고리즘\그래프 알고리즘\Kosaraju Algorithm\Debug\Kosaraju Algorithm.exe
